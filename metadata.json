@@ -1,0 +1,5 @@
+{
+  "name": "OpenSix Prediction",
+  "description": "Uma plataforma inteligente de previsão para e-commerce usando modelos Gemini para analisar a saúde do negócio e prever receita.",
+  "requestFramePermissions": []
+}
